@@ -1,0 +1,13 @@
+.transaction-form__form {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 16px;
+}
+
+
+mat-slide-toggle {
+  display: flex;
+  align-items: center;
+  margin: 16px 0;
+}
